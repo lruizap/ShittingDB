@@ -1,2 +1,14 @@
+# Cache
+__pycache__
+
+# Virtual env
 env
+
+# API KEYs
+.env
+
+# Database
+db.sqlite3
+
+# Drawio
 ShittingDB.drawio
