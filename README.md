@@ -4,6 +4,7 @@
 
 ### Estructura de la base de datos
 
+```markdown
 ShittingDB/
 │
 ├── Usuario
@@ -42,9 +43,11 @@ ShittingDB/
     ├── usuario: Relación con la tabla Usuario (quién guardó el contenido)
     ├── post: Relación con la tabla Post (contenido guardado)
     └── fecha_guardado: Fecha en que se guardó el contenido
+```
 
 ### Estructura del proyecto
 
+```markdown
 ShittingDB/
 │
 ├── backend/                 # Proyecto Django
@@ -97,3 +100,4 @@ ShittingDB/
 │   ├── README.md            # Documentación para el frontend
 │
 └── README.md                # Documentación principal del proyecto
+```
