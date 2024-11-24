@@ -48,11 +48,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    # Apps del proyecto
-
     # Apps de terceros
     'rest_framework',
     'rest_framework_simplejwt.token_blacklist',
+
+    # Apps del proyecto
+    "api"
 ]
 
 MIDDLEWARE = [
